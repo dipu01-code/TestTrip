@@ -95,7 +95,7 @@ export const DEMO_DESTINATIONS = [
     name: 'Barcelona',
     country: 'Spain',
     image: 'https://images.unsplash.com/photo-1539037073928-8b59b8d6d05f?auto=format&fit=crop&w=1200&q=80',
-    description: 'Gaudí's architecture meets beachside tapas bars and late-night jazz.',
+    description: "Gaudí's architecture meets beachside tapas bars and late-night jazz.",
     tags: ['Art & Culture', 'Food', 'Music'],
     match: 84,
   },
